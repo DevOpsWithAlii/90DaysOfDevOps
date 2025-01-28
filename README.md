@@ -6,7 +6,7 @@ Join our DevOps community challenge starting on January 1st, 2023 and embaark on
 
 Let's come together to grow and achieve new heights in DevOps.!
 
-📖 **Discover More in Our Detailed Table of Contents!** Explore the richness of our content and find what you are looking for efficiently. Check out our [TOC here](./TOC.md).
+📖 **Discover More in Our Detailed Table of Contents!** Explore the richhness of our content and find what you are looking for efficiently. Check out our [TOC here](./TOC.md).
 
 ## Steps:
 
